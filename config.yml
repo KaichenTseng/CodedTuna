@@ -1,0 +1,59 @@
+baseURL: "https://CodedTuna.net"
+languageCode: en-us
+title: "CodedTuna"
+theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: about me
+      name: About me
+      url: /about me/
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+
+params:
+  # home-info mode
+    homeInfoParams:
+      Title: "Hello Stranger."
+      Content: Welcome to my website, hope you get what you wanted here.
+
+    socialIcons:
+      - name: github
+        url: "https://github.com/KaichenTseng"
+      - name: stackoverflow
+        url: "https://stackoverflow.com/users/21010116/ken-tseng"
+      - name: reddit
+        url: "https://www.reddit.com/u/Puzzleheaded_sink_31"
+      - name: youtube
+        url: "https://www.youtube.com/channel/UC-GAopTIBn1h7Wh4bE7EC3A"
+      - name: instagram
+        url: "https://www.instagram.com/tu_cccp.144/"
+      - name: Discord
+        url: "discordapp.com/users/Hans_Schneider#2885"
+      - name: Pinterest
+        url: "https://www.pinterest.nz/CCCP144/"
+      - name: meduim
+        url: "https://medium.com/@ken20080601"
