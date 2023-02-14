@@ -3,8 +3,8 @@ title: "Personal Blog"
 date: 2023-02-14T14:57:57+13:00
 draft: true
 # weight: 1
-# aliases: ["/#first-post-ever!"]
-tags: ["#PersonalBlog", "#GoLanguage"]
+# aliases: ["/personal blog"]
+tags: ["PersonalBlog", "GoLanguage"]
 categories: ["GoLanguage"]
 author: "CodedTuna"
 # author: ["Me", "You"] # multiple authors

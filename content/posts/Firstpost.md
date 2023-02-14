@@ -1,10 +1,10 @@
 ---
-title: "Firstpost"
+title: "First post"
 date: 2023-02-14T15:04:57+13:00
 draft: false
 # weight: 1
-# aliases: ["/#first-post-ever!"]
-tags: ["#first-post-ever!", "#GoLanguage"]
+# aliases: ["/first-post-ever!"]
+tags: ["first-post-ever!", "GoLanguage"]
 categories: ["WebDev"]
 author: "CodedTuna"
 # author: ["Me", "You"] # multiple authors
