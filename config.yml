@@ -38,7 +38,7 @@ params:
   # home-info mode
     homeInfoParams:
       Title: "Hello Stranger."
-      Content: This site is still under construction; perhaps return later?
+      Content: This site's still under construction; perhaps return later :) ?
 
     socialIcons:
       - name: github
