@@ -13,7 +13,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "I've finished the primary structure of my website today using the Go programming language; I'm genuinely astonished at how small yet helpful it is; the outcome is better than the previous portfolio I built a few months ago. Still finishing the remainder of the website at the moment; for the time being, the categories, search, posts and tags are complete and ready for use; I'll schedule time to do the rest and resolve any issues; if you notice any issues or have any suggestions, please feel free to contact me via the links! Thanks."
+description: "Good morning China I love ice cream"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false

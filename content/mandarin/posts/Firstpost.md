@@ -13,7 +13,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "My first post on this website! :D."
+description: "Good morning China I love ice cream"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
