@@ -61,7 +61,7 @@ languages:
     contentDir: content/english
     languageName: English
     weight: 10
-  ch:
-    contentDir: content/chinese
-    languageName: Chinese
+  ma:
+    contentDir: content/mandarin
+    languageName: Mandarin
     weight: 20
