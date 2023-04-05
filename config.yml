@@ -55,3 +55,13 @@ params:
         url: "https://www.pinterest.nz/CCCP144/"
       - name: meduim
         url: "https://medium.com/@ken20080601"
+
+languages:
+  en:
+    contentDir: content/english
+    languageName: English
+    weight: 10
+  fr:
+    contentDir: content/french
+    languageName: Chi
+    weight: 20
