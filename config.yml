@@ -62,6 +62,6 @@ languages:
     languageName: English
     weight: 10
   fr:
-    contentDir: content/french
-    languageName: Chi
+    contentDir: content/chinese
+    languageName: Chinese
     weight: 20
