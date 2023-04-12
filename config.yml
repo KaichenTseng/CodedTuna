@@ -41,17 +41,17 @@ params:
       Content: This site's still under construction; perhaps return later :) ?
 
     socialIcons:
-      - name: github
+      - name: Github
         url: "https://github.com/KaichenTseng"
-      - name: stackoverflow
+      - name: Stackoverflow
         url: "https://stackoverflow.com/users/21010116/ken-tseng"
-      - name: reddit
+      - name: Reddit
         url: "https://www.reddit.com/u/Puzzleheaded_sink_31"
-      - name: youtube
+      - name: Youtube
         url: "https://www.youtube.com/channel/UC-GAopTIBn1h7Wh4bE7EC3A"
-      - name: instagram
+      - name: Instagram
         url: "https://www.instagram.com/tu_cccp.144/"
       - name: Pinterest
         url: "https://www.pinterest.nz/CCCP144/"
-      - name: meduim
+      - name: Meduim
         url: "https://medium.com/@ken20080601"
