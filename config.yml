@@ -37,7 +37,7 @@ menu:
 params:
   # home-info mode
     homeInfoParams:
-      Title: "Hello World :)"
+      Title: "Hi There :)"
       Content: This site's still under construction; perhaps return later :) ?
 
     socialIcons:
