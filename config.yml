@@ -38,7 +38,7 @@ params:
   # home-info mode
     homeInfoParams:
       Title: "NOTICE: End of Support"
-      Content: "NOTICE: This website will no longer be maintained/updated after **August of 2023**, please visit [here](https://mtutech.net) for more updates, see you on the other side :)"
+      Content: "NOTICE: This website will no longer be maintained/updated after **August of 2023**, please visit [here](https://mtutech.net) for updated info, see you on the other side :)"
 
     socialIcons:
       - name: Github
