@@ -37,8 +37,8 @@ menu:
 params:
   # home-info mode
     homeInfoParams:
-      Title: "Hi There :)"
-      Content: This site's still under construction; perhaps return later :) ?
+      Title: "NOTICE: End of Support"
+      Content: NOTICE:This website will no longer be maintained/updated after August of 2023, please visit [here](https://mtutech.net) for more information, thank you.
 
     socialIcons:
       - name: Github
