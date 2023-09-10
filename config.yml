@@ -37,9 +37,8 @@ menu:
 params:
   # home-info mode
     homeInfoParams:
-      Title: "NOTICE: End of Support"
-      Content: "NOTICE: This website will no longer be maintained/updated after **August of 2023**, please visit [here](https://ken20080601.wixsite.com/kentseng) for updated info, see you on the other side :)"
-
+      Title: "Hey there."
+      Content: "Currently using this site as a link page, will update ASAP.
     socialIcons:
       - name: Github
         url: "https://github.com/KaichenTseng"
