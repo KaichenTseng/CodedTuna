@@ -38,7 +38,7 @@ params:
   # home-info mode
     homeInfoParams:
       Title: "Hey there."
-      Content: "Currently using this site as a link page, will update ASAP.
+      Content: "Currently using this site as a link page..
     socialIcons:
       - name: Github
         url: "https://github.com/KaichenTseng"
